@@ -1,7 +1,7 @@
 import { File } from 'undici';
 import { describe, it, expect } from 'vitest';
 
-import formDataToString from '../src';
+import formDataToString from '../src/index.js';
 
 import owlbertShrubDataURL from './fixtures/owlbert-shrub.dataurl.json';
 import owlbert from './fixtures/owlbert.dataurl.json';
