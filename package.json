@@ -46,7 +46,7 @@
     "prettier": "^3.0.3",
     "tsup": "^8.0.1",
     "typescript": "^5.2.2",
-    "undici": "^5.26.3",
+    "undici": "^6.2.1",
     "vitest": "^0.34.3"
   },
   "prettier": "@readme/eslint-config/prettier"
